@@ -10,6 +10,7 @@ import Reports from "./pages/Reports";
 import Dispense from "./pages/Dispense";
 
 function App() {
+  //
   return (
     <Router>
       <Navbar /> {/* Navbar added here */}
